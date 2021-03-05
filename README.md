@@ -21,3 +21,4 @@ License
 MIT
 
 Our implementation is modified version of https://github.com/bentrevett/pytorch-seq2seq.git
+For the metric calculations we used https://github.com/Maluuba/nlg-eval.git@master
