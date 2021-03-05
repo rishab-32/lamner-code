@@ -1,7 +1,7 @@
 # LAMNER-Code
 
 
-LAMNER-Code employs semantic-syntact embeddings for code comment generation.
+LAMNER-Code employs semantic-syntactic embeddings for code comment generation.
 # Download Dataset
 
   - The souce of dataset is https://github.com/microsoft/CodeXGLUE/tree/main/Code-Text/code-to-text
@@ -22,4 +22,4 @@ MIT
 
 Our implementation is modified version of https://github.com/bentrevett/pytorch-seq2seq.git
 
-For the metric calculations we used https://github.com/Maluuba/nlg-eval.git
+For the metrics calculations we used https://github.com/Maluuba/nlg-eval.git
